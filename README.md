@@ -14,7 +14,6 @@ Atualmente, estou em busca de uma **oportunidade de estágio** para aplicar meus
   <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="40"/>
   <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="40"/>
   <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="40"/>
-  <img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="40"/>
 </div>
 
 ### ⚙️ Backend
@@ -24,6 +23,8 @@ Atualmente, estou em busca de uma **oportunidade de estágio** para aplicar meus
   <img src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="40"/>
   <img src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="40"/>
   <img src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="40"/>
+  <img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="40"/>
+  <img src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="40"/>
 </div>
 
 ### 🛠️ Outras Ferramentas & Tecnologias
