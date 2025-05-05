@@ -35,7 +35,7 @@ Atualmente, estou em busca de uma **oportunidade de estágio** para aplicar meus
   <img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="40"/>
   <img src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" alt="Trello" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013_logo.svg" alt="Microsoft Excel" height="40"/>
+  ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 </div>
 
 
