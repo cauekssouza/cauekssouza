@@ -36,20 +36,6 @@ Atualmente, estou em busca de uma **oportunidade de estágio** para aplicar meus
   <img src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="40"/>
 </div>
 
----
-
-## 📚 O que quero aprender
-<div align="center">
-  <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="40"/>
-  <img src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="40"/>
-  <img src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="40"/>
-  <img src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" height="40"/>
-  <img src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="40"/>
-  <img src="https://profilinator.rishav.dev/skills-assets/swift-original-wordmark.svg" alt="Swift" height="40"/>
-</div>
-
----
-
 ## 💡 Soft Skills
 
 Além do conhecimento técnico, acredito que as habilidades interpessoais são fundamentais para o sucesso em projetos e equipes:
@@ -77,6 +63,11 @@ Além do conhecimento técnico, acredito que as habilidades interpessoais são f
 
 ## 📫 Contato
 
-Se você quiser conversar ou tiver alguma oportunidade, sinta-se à vontade para me chamar!
+<a href="https://www.linkedin.com/in/cauekssouza" target="_blank">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
 
----
+<a href="mailto:cauekssouza@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+</a>
+
