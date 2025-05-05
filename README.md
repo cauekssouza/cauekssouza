@@ -26,7 +26,6 @@ Atualmente, estou em busca de uma **oportunidade de estágio** para aplicar meus
   <img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="40"/>
   <img src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="40"/>
 </div>
-
 ### 🛠️ Outras Ferramentas & Tecnologias
 <div align="center">
   <img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="40"/>
@@ -35,8 +34,9 @@ Atualmente, estou em busca de uma **oportunidade de estágio** para aplicar meus
   <img src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power BI" height="40"/>
   <img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="40"/>
   <img src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="40"/>
-  <img src="https://profilinator.rishav.dev/skills-assets/trello.svg" alt="Trello" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" alt="Trello" height="40"/>
 </div>
+
 
 
 
