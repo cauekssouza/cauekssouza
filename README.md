@@ -34,7 +34,9 @@ Atualmente, estou em busca de uma **oportunidade de estágio** para aplicar meus
   <img src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power BI" height="40"/>
   <img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="40"/>
   <img src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="40"/>
+  <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white" alt="Trello" height="40"/>
 </div>
+
 
 ## 💡 Soft Skills
 
@@ -66,7 +68,6 @@ Além do conhecimento técnico, acredito que as habilidades interpessoais são f
 <a href="https://www.linkedin.com/in/cauekssouza" target="_blank">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
-
 <a href="mailto:cauekssouza@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
 </a>
