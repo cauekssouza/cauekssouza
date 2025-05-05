@@ -58,7 +58,6 @@ Atualmente, estou em busca de uma **oportunidade de estágio** para aplicar meus
 </td></tr></table>  
 
 <br/>  
-[cauekssouza@gmail.com](mailto:cauekssouza@gmail.com)
 
 
 
