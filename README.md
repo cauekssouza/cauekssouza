@@ -2,7 +2,7 @@
 
 Olá! Meu nome é **Cauê Souza** 👨‍💻  
 Sou estudante do **5º período de Engenharia de Software na PUCPR**.  
-Atualmente, estou em busca de uma **oportunidade de estágio** para aplicar meus conhecimentos, aprender com profissionais experientes e contribuir com soluções criativas.
+Atualmente, estou em busca de uma **oportunidade de estágio**  de Front-end ou Back-end para aplicar meus conhecimentos, aprender com profissionais experientes e contribuir com soluções criativas.
 
 ---
 
