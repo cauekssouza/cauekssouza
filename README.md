@@ -53,25 +53,3 @@ Acredito que as **habilidades interpessoais** são tão importantes quanto as t�
 
 ---
 
-# 📌 Nome do Projeto
-
-> Breve descrição da finalidade do projeto.  
-> Ex: Um site pessoal com informações sobre mim, meus projetos e formas de contato.
-
----
-
-## 🚀 Tecnologias Usadas
-
-- HTML5
-- CSS3
-- JavaScript
-- [Adicione outras tecnologias específicas aqui, como React, PHP, etc.]
-
----
-
-## ⚙️ Como Instalar e Rodar o Projeto
-
-1. Clone este repositório:
-
-```bash
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
