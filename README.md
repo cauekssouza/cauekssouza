@@ -20,12 +20,12 @@ Atualmente, estou em busca de uma **oportunidade de estágio**  de Front-end ou 
 ### ⚙️ Back-end
 - Java
 - Python
-- C, C++
+- C
 - C#
 - PHP
-- **.NET**
+- .NET
 - MySQL
-- **PostgreSQL**
+- PostgreSQL
 
 ### 🛠️ Outras Tecnologias e Ferramentas
 - Linux
