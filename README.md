@@ -30,11 +30,6 @@ Sou estudante do 6º período de Engenharia de Software na PUCPR e estou em busc
 
 ---
 
-## 📊 GitHub & Projetos
-No meu GitHub você encontrará projetos que refletem minha evolução como desenvolvedor:  
-- **Projetos acadêmicos:** os primeiros repositórios aplicam conceitos de faculdade, engenharia de software e desenvolvimento web.  
-- **Projetos pessoais:** os repositórios mais recentes exploram tecnologias modernas e soluções criativas para desafios reais.  
-
 💻 Confira meus projetos: [Seu GitHub](https://github.com/cauekssouza)
 
 ---
