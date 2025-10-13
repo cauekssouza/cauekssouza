@@ -1,43 +1,61 @@
-# Olá, eu sou o Cauê Souza 👋
+# 👋 Olá, eu sou o Cauê Souza
 
-Sou estudante do 6º período de Engenharia de Software na PUCPR e estou em busca de oportunidades de estágio em **Front-end** ou **Back-end**. Meu objetivo é aplicar meus conhecimentos, aprender com profissionais experientes e contribuir com soluções criativas.  
+🎓 Estudante do 6º período de Engenharia de Software na [PUCPR](https://www.pucpr.br/)  
+🚀 Em busca de oportunidades de estágio em **Front-end** ou **Back-end**  
+💡 Apaixonado por tecnologia, aprendizado contínuo e soluções criativas
 
 ---
 
-## 🚀 Habilidades Técnicas
+## 🧠 Sobre mim
+
+Sou dedicado a construir uma base sólida em desenvolvimento de sistemas, com foco em qualidade de código e boas práticas. Busco aplicar meus conhecimentos em projetos reais, aprender com profissionais experientes e colaborar com equipes diversas.
+
+---
+
+## 💻 Habilidades Técnicas
 
 ### 🖥️ Front-end
-- HTML5 | CSS3 | JavaScript | TypeScript
+- HTML5 | CSS3 | JavaScript | TypeScript  
 - Angular | React
 
 ### ⚙️ Back-end
-- Java | Python | C | C# | PHP | .NET
+- Java | Python | C | C# | PHP | .NET  
 - MySQL | PostgreSQL
 
 ### 🛠️ Outras Tecnologias e Ferramentas
-- Linux | Node.js | Flask
-- Figma | Trello | Power BI
+- Linux | Node.js | Flask  
+- Figma | Trello | Power BI  
 - Microsoft Excel (básico ao avançado)
 
 ---
 
-## 💡 Soft Skills
-- 🤝 Trabalho em equipe: colaboração com foco no resultado coletivo.  
-- 🧠 Aprendizado contínuo: sempre buscando evoluir e aprender algo novo.  
-- 🗣️ Comunicação clara: transmitindo ideias com objetividade.  
-- 🧩 Resolução de problemas: foco em soluções criativas e práticas.  
-- 🕒 Gestão do tempo: equilíbrio entre estudos, projetos e aprendizado.  
+## 🧩 Soft Skills
+
+- 🤝 Trabalho em equipe  
+- 🧠 Aprendizado contínuo  
+- 🗣️ Comunicação clara  
+- 🧩 Resolução de problemas  
+- 🕒 Gestão do tempo
 
 ---
 
-💻 Confira meus projetos: [Seu GitHub](https://github.com/cauekssouza)
+## 📁 Projetos em Destaque
+
+- [Catalogo de Filmes](https://github.com/cauekssouza/ProjetoAngular-Csharp.git)
+- [Constructioncon](https://github.com/J4kedi/constructioncon.git) (Obs: ainda em desenvolvimento e está com minha equipe)
+- [Flavour Hunter](https://github.com/cauekssouza/Flavor_Stalker.git)
+
+> Explore meus repositórios para ver mais projetos com foco em Front-end, Back-end e dados.
+
+[Repositórios](https://github.com/cauekssouza?tab=repositories)
+
+
+## 🌐 Portfólio e Contato
+[Portfólio](https://portfolio-gamma-gules-41.vercel.app/)
+- [LinkedIn](https://www.linkedin.com/in/cauekssouza)  
+- 📧 cauekssouza@gmail.com  
+- 🌍 Curitiba, PR - Brasil
 
 ---
 
-## 📫 Contato
-- LinkedIn: [Seu LinkedIn](www.linkedin.com/in/cauekssouza)  
-- E-mail: seuemail@exemplo.com
-
----
-
-**Obrigado por visitar meu GitHub!** 🚀
+📌 *Obrigado por visitar meu GitHub! Fique à vontade para explorar meus projetos e conectar-se comigo.*
