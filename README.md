@@ -71,8 +71,5 @@ Sou dedicado a construir uma base sólida em desenvolvimento de sistemas, com fo
 
 --
 
-## 📅 Contribuições Recentes
-
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=cauekssouza&theme=react-dark)
 
 📌 *Obrigado por visitar meu GitHub! Fique à vontade para explorar meus projetos e conectar-se comigo.*
