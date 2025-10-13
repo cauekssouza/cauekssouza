@@ -58,4 +58,21 @@ Sou dedicado a construir uma base sólida em desenvolvimento de sistemas, com fo
 
 ---
 
+## 📊 GitHub Stats
+
+![Cauê's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cauekssouza&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cauekssouza&layout=compact&theme=radical)
+
+--
+
+## 🏆 GitHub Trophies
+
+[![Trophy](https://github-profile-trophy.vercel.app/?username=cauekssouza&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+
+--
+
+## 📅 Contribuições Recentes
+
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=cauekssouza&theme=react-dark)
+
 📌 *Obrigado por visitar meu GitHub! Fique à vontade para explorar meus projetos e conectar-se comigo.*
