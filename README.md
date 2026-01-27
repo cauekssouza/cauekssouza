@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Cauê Souza
 
-🎓 Estudante do 6º período de Engenharia de Software na [PUCPR](https://www.pucpr.br/)  
+🎓 Estudante do 7º período de Engenharia de Software na [PUCPR](https://www.pucpr.br/)  
 🚀 Em busca de oportunidades de estágio em **Front-end** ou **Back-end**  
 💡 Apaixonado por tecnologia, aprendizado contínuo e soluções criativas
 
@@ -26,6 +26,9 @@ Sou dedicado a construir uma base sólida em desenvolvimento de sistemas, com fo
 - Linux | Node.js | Flask  
 - Figma | Trello | Power BI  
 - Microsoft Excel (básico ao avançado)
+
+## Mobile
+- React Native
 
 ---
 
