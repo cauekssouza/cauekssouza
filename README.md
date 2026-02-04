@@ -1,78 +1,48 @@
 # 👋 Olá, eu sou o Cauê Souza
 
-🎓 Estudante do 7º período de Engenharia de Software na [PUCPR](https://www.pucpr.br/)  
-🚀 Em busca de oportunidades de estágio em **Front-end** ou **Back-end**  
-💡 Apaixonado por tecnologia, aprendizado contínuo e soluções criativas
+**Engenheiro de Software | Desenvolvedor Fullstack | Estagiário de IA & Automação**
+
+[cite_start]Atualmente, sou estagiário de **Inteligência Artificial e Automação de Processos** no Chaves na Mão [cite: 30, 31][cite_start], onde foco na implantação de plataformas tecnológicas e otimização de fluxos através de dados[cite: 36, 38]. [cite_start]Como desenvolvedor, busco unir a agilidade do Front-end moderno com a robustez de arquiteturas escaláveis no Back-end[cite: 20].
 
 ---
 
-## 🧠 Sobre mim
+### 🧠 Sobre mim
 
-Sou dedicado a construir uma base sólida em desenvolvimento de sistemas, com foco em qualidade de código e boas práticas. Busco aplicar meus conhecimentos em projetos reais, aprender com profissionais experientes e colaborar com equipes diversas.
-
----
-
-## 💻 Habilidades Técnicas
-
-### 🖥️ Front-end
-- HTML5 | CSS3 | JavaScript | TypeScript  
-- Angular | React
-
-### ⚙️ Back-end
-- Java | Python | C | C# | PHP | .NET  
-- MySQL | PostgreSQL
-
-### 🛠️ Outras Tecnologias e Ferramentas
-- Linux | Node.js | Flask  
-- Figma | Trello | Power BI  
-- Microsoft Excel (básico ao avançado)
-
-## Mobile
-- React Native
+* [cite_start]🎓 **Formação:** Bacharelado em Engenharia de Software na **PUCPR** (conclusão em 2026)[cite: 43, 44].
+* [cite_start]🚀 **Foco Técnico:** Desenvolvimento Fullstack com **JavaScript (ES6+)**, **React.js** e **Node.js**[cite: 21].
+* [cite_start]🛠️ **Qualidade:** Experiência com **TypeScript**, **Clean Code** e metodologias ágeis.
+* [cite_start]🌐 **Idiomas:** Inglês (Full Professional)[cite: 13].
 
 ---
 
-## 🧩 Soft Skills
+### 💻 Habilidades Técnicas
 
-- 🤝 Trabalho em equipe  
-- 🧠 Aprendizado contínuo  
-- 🗣️ Comunicação clara  
-- 🧩 Resolução de problemas  
-- 🕒 Gestão do tempo
-
----
-
-## 📁 Projetos em Destaque
-
-- [Catalogo de Filmes](https://github.com/cauekssouza/ProjetoAngular-Csharp.git)
-- [Constructioncon](https://github.com/J4kedi/constructioncon.git) (Obs: ainda em desenvolvimento e está com minha equipe)
-- [Flavour Hunter](https://github.com/cauekssouza/Flavor_Stalker.git)
-
-> Explore meus repositórios para ver mais projetos com foco em Front-end, Back-end e dados.
-
-[Repositórios](https://github.com/cauekssouza?tab=repositories)
-
-
-## 🌐 Portfólio e Contato
-[Portfólio](https://portfolio-gamma-gules-41.vercel.app/)
-- [LinkedIn](https://www.linkedin.com/in/cauekssouza)  
-- 📧 cauekssouza@gmail.com  
-- 🌍 Curitiba, PR - Brasil
+| Categoria | Tecnologias |
+| :--- | :--- |
+| **Front-end** | [cite_start]React.js, TypeScript, Styled Components, Tailwind CSS[cite: 21, 22]. |
+| **Back-end** | [cite_start]Node.js, Integração de APIs RESTful[cite: 21, 22]. |
+| **Bancos de Dados** | [cite_start]SQL e MongoDB[cite: 22]. |
+| **Processos** | [cite_start]UML, Levantamento de Requisitos e Segurança da Informação[cite: 10, 11]. |
 
 ---
 
-## 📊 GitHub Stats
+### 🛠️ Experiência Atual (Chaves na Mão)
 
-![Cauê's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cauekssouza&show_icons=true&theme=radical)
+[cite_start]No meu dia a dia, contribuo com[cite: 35]:
+* [cite_start]**Automação:** Manutenção e automatização dos processos de implantação de software[cite: 38].
+* [cite_start]**Dados:** Coleta de dados quantitativos/qualitativos e alimentação de bancos de dados[cite: 37, 41].
+* [cite_start]**Suporte Técnico:** Auxílio na implantação de novas plataformas tecnológicas[cite: 36].
+
+---
+
+### 🌐 Conecte-se comigo
+
+* [cite_start][LinkedIn](https://www.linkedin.com/in/cauekssouza) [cite: 5]
+* [cite_start][Email](mailto:cauekssouza@gmail.com) [cite: 4]
+* [cite_start]📍 Curitiba, PR [cite: 16]
+
+---
+
+### 📊 Estatísticas
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cauekssouza&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cauekssouza&layout=compact&theme=radical)
-
---
-
-## 🏆 GitHub Trophies
-
-[![Trophy](https://github-profile-trophy.vercel.app/?username=cauekssouza&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
-
---
-
-
-📌 *Obrigado por visitar meu GitHub! Fique à vontade para explorar meus projetos e conectar-se comigo.*
