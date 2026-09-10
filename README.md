@@ -49,6 +49,3 @@ No meu dia a dia, contribuo com:
 
 ---
 
-### 📊 Estatísticas
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cauekssouza&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cauekssouza&layout=compact&theme=radical)
