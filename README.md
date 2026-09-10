@@ -15,7 +15,7 @@ Atualmente, sou estagiário de **Inteligência Artificial e Automação de Proce
 ### 🧠 Sobre mim
 
 * 🎓 **Formação:** Bacharelado em Engenharia de Software na **PUCPR** (conclusão em 2026).
-* 🚀 **Foco Técnico:** Desenvolvimento Fullstack com **JavaScript (ES6+)**, **React.js** e **Node.js**.
+* 🚀 **Foco Técnico:** Desenvolvimento Fullstack com **JavaScript, **React.js** e **Node.js**.
 * 🛠️ **Qualidade:** Experiência com **TypeScript**, **Clean Code** e metodologias ágeis.
 * 🌐 **Idiomas:** Inglês (Full Professional).
 
