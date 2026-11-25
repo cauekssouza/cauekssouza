@@ -4,48 +4,46 @@
   <img alt="Cauê Souza - Hero Banner" src="./github-header-dark.svg" width="100%">
 </picture>
 
-# 👋 Olá, eu sou o Cauê Souza
+# 👋 Hi, I'm Cauê Souza
 
-**Engenheiro de Software | Desenvolvedor Fullstack | Estagiário de IA & Automação**
+**Software Engineer | Fullstack Developer | AI & Process Automation**
 
-Atualmente, sou estagiário de **Inteligência Artificial e Automação de Processos** no Chaves na Mão, onde foco na implantação de plataformas tecnológicas e otimização de fluxos através de dados. Como desenvolvedor, busco unir a agilidade do Front-end moderno com a robustez de arquiteturas escaláveis no Back-end.
-
----
-
-### 🧠 Sobre mim
-
-* 🎓 **Formação:** Bacharelado em Engenharia de Software na **PUCPR** (conclusão em 2026).
-* 🚀 **Foco Técnico:** Desenvolvimento Fullstack com **JavaScript, **React.js** e **Node.js**.
-* 🛠️ **Qualidade:** Experiência com **TypeScript**, **Clean Code** e metodologias ágeis.
-* 🌐 **Idiomas:** Inglês (Full Professional).
+I hold a Bachelor's degree in Software Engineering from PUCPR, with hands-on experience in Artificial Intelligence, process automation, and fullstack web development. I focus on bridging responsive, modern Front-end interfaces with scalable, data-driven Back-end architectures.
 
 ---
 
-### 💻 Habilidades Técnicas
+### 🧠 About Me
 
-| Categoria | Tecnologias |
+* 🎓 **Education:** B.Sc. in Software Engineering — PUCPR (Graduated 2026).
+* 🚀 **Core Stack:** Fullstack development with **JavaScript, TypeScript, React.js, and Node.js**.
+* 🛠️ **Engineering Practices:** Clean Code, system modeling, and Agile methodologies.
+* 🌐 **Languages:** Portuguese (Native) | English (Full Professional Proficiency).
+* 📍 **Location:** Curitiba, PR — Brazil (Open to remote opportunities worldwide).
+
+---
+
+### 💻 Tech Stack
+
+| Category | Technologies & Concepts |
 | :--- | :--- |
-| **Front-end** | React.js, TypeScript, Styled Components, Tailwind CSS. |
-| **Back-end** | Node.js, Integração de APIs RESTful. |
-| **Bancos de Dados** | SQL e MongoDB. |
-| **Processos** | UML, Levantamento de Requisitos e Segurança da Informação. |
+| **Front-end** | React.js, TypeScript, JavaScript (ES6+), Styled Components, Tailwind CSS |
+| **Back-end** | Node.js, RESTful API design & integration |
+| **Databases** | SQL, MongoDB |
+| **AI & Automation** | Deployment workflow automation, data collection & pipelines |
+| **Software Engineering** | UML, Requirements Engineering, Clean Code, Information Security |
 
 ---
 
-### 🛠️ Experiência Atual (Chaves na Mão)
+### 🛠️ Experience
 
-No meu dia a dia, contribuo com:
-* **Automação:** Manutenção e automatização dos processos de implantação de software.
-* **Dados:** Coleta de dados quantitativos/qualitativos e alimentação de bancos de dados.
-* **Suporte Técnico:** Auxílio na implantação de novas plataformas tecnológicas.
-
----
-
-### 🌐 Conecte-se comigo
-
-* [LinkedIn](https://www.linkedin.com/in/cauekssouza)
-* [Email](mailto:cauekssouza@gmail.com)
-* 📍 Curitiba, PR
+**Chaves na Mão** — *AI & Process Automation*
+* **Workflow Automation:** Maintained and automated software deployment pipelines and operational workflows.
+* **Data Operations:** Collected and structured quantitative/qualitative datasets to feed databases and support AI-driven initiatives.
+* **Platform Deployment:** Assisted in the technical rollout and integration of new technological platforms.
 
 ---
 
+### 🌐 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@DOMAIN.COM)
